@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.mainpage {
+    background-color: #B8DFD8;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    margin-left: 200px;
+}
+
+.middlepage {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.bottom_page {
+    background-color: #B8DFD8;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
